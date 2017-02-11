@@ -176,6 +176,9 @@ body {
   /*background-color: black;*/
   height: 78vh;
 }
+.createdText {
+  text-align: center;
+}
 footer {
     background-color: #B3B3B3;
     padding-top: 60px;
